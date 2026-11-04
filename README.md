@@ -38,7 +38,8 @@ The PDF and Live Script filenames depend on the versions uploaded. Identify the 
 In MATLAB, open the explanatory file in the **Live Editor**. If it opens in the ordinary Editor, right-click its document tab and select **Open as Live Script**. You can save an `.mlx` copy from the Live Editor using **Save As**. An `.m` extension alone does not distinguish a conventional script from a plain-text Live Script.
 
 ## Algorithm Explanation
-The code follows the architecture presented in the diagram
+The code follows the architecture presented in the diagram.
+
 <img width="811" height="1403" alt="image" src="https://github.com/user-attachments/assets/a99185fa-a338-4a53-a624-3fb24ba45106" />
 
 
@@ -47,6 +48,7 @@ The code follows the architecture presented in the diagram
 ### Problem statement
 
 Determine the support reactions and axial force in each member of a two-member truss subjected to a **2 kN downward load at node 2**. Also calculate the displacement of the loaded joint.
+
 <img width="315" height="381" alt="image" src="https://github.com/user-attachments/assets/7e19b960-6e6e-4fd9-a32f-efae1820a9e9" />
 
 
@@ -95,6 +97,7 @@ F(4) = -2000;
 ### Problem statement
 
 Determine the **vertical displacement at joint 2** and the **axial force in member 5**. A **30 kN downward load** acts at joint 3. All members have **A = 0.0015 m²** and **E = 200 GPa**.
+
 <img width="471" height="331" alt="image" src="https://github.com/user-attachments/assets/226cf6e1-a2d1-4c3a-8db7-28b66fbc707c" />
 
 
