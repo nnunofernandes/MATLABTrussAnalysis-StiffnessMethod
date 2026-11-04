@@ -20,7 +20,7 @@ By completing the exercises, students should be able to:
 | Resource | Purpose |
 | --- | --- |
 | PDF tutorial | Structural assumptions, equations and step-by-step coding instructions |
-| Exercise 1 Live Script | Formatted explanations and executable code for the first exercise |
+| `exercise1_solution_tutorial.m` | Formatted explanations in livelink format and executable code for the first exercise |
 | `exercise1_starter.m` | Exercise 1 before completion, with selected expressions to fill in |
 | `exercise1_solution.m` | Completed Exercise 1 solution |
 | `exercise2_starter.m` | Exercise 2 before completion, with selected expressions to fill in |
